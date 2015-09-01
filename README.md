@@ -5,4 +5,5 @@
   * [WinPcap简介与安装](https://github.com/Heatwave/Blog/issues/2)
   * [创建VS2010项目与配置项目](https://github.com/Heatwave/Blog/issues/3)
   * [获取适配器基本信息](https://github.com/Heatwave/Blog/issues/4)
-  * [打开适配器并捕获数据包](https://github.com/Heatwave/Blog/issues/5)
+  * [获取适配器高级信息](https://github.com/Heatwave/Blog/issues/5)
+  * [打开适配器并捕获数据包](https://github.com/Heatwave/Blog/issues/6)
